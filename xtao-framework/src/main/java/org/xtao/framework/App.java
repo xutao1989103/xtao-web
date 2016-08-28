@@ -1,4 +1,4 @@
-package org.xtao;
+package org.xtao.framework;
 
 /**
  * Hello world!

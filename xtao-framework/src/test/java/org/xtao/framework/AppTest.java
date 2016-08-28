@@ -1,4 +1,4 @@
-package org.xtao;
+package org.xtao.framework;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
